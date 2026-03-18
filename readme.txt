@@ -10,3 +10,4 @@ Para resolver esse problema, a prefeitura decidiu instalar um sistema de sinaliz
 O sinal dos pedestres possui duas luzes: vermelho e verde.
 A prefeitura pediu que você desenvolva uma simulação desse sistema utilizando Arduino no Tinkercad, controlando as luzes por meio de LEDs.
 
+Trabalho do Rafael
